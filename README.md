@@ -11,8 +11,8 @@ FleetXpress is a fleet management application designed to streamline the process
 ## Technologies Used
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: JAVA,C++
-- Database: MYSQL
+- Backend: JAVA.
+- Database: PostgreSQL
 - Other Tools: Git, GitHub
 
 ## License
